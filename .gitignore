@@ -1,0 +1,7 @@
+backups/
+data/author-corrections.json
+data/source-rows.json
+data/lifetime-memory-gaps.json
+preview*.jpg
+assets/england-north.png
+__pycache__/
